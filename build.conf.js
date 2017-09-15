@@ -56,7 +56,7 @@ const styles = {
 const config = {
 	browsersync: {
 		proxy: {
-			target: "react-wordpress.dev",
+			target: "react-wordpress.local",
 			ws: true
 		},
 		ghostMode: false
