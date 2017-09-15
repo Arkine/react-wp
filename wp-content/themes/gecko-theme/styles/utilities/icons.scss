@@ -1,0 +1,29 @@
+@mixin icon($name) {
+	$fontObject: map-get($icons, $name);
+
+	@if ($fontObject) {
+	} @else {
+		@error "Couldn't find icon #{ $name }";
+	}
+
+	font-family: map-get($fontObject, "font");
+	content: map-get($fontObject, "code");
+}
+
+// These styles are important because they're functionally equivalent to inline styles
+// In this case, more specificity is not possible and icons are being assigned from an icon picker.
+/* stylelint-disable */
+
+[data-icon-before="none"]::before,
+[data-icon-after="none"]::after {
+	content: none !important;
+}
+
+@each $iconName, $icon in $icons {
+	[data-icon-before="#{ $iconName }"]::before,
+	[data-icon-after="#{ $iconName }"]::after {
+		font-family: map-get($icon, "font") !important;
+		content: "#{ map-get($icon, "code") }" !important;
+	}
+}
+/* stylelint-enable */

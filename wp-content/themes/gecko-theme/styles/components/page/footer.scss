@@ -1,0 +1,14 @@
+body > footer {
+	text-align: center;
+
+	nav {
+		ul > li {
+			display: inline-block;
+
+			> a {
+				display: block;
+				padding: 8px 20px;
+			}
+		}
+	}
+}

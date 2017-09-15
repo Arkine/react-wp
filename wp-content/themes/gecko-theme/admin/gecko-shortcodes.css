@@ -1,0 +1,35 @@
+#gecko-shortcodes-wrapper {
+	position: relative;
+	display: inline-block;
+}
+#gecko-shortcodes {
+	margin-bottom: 0;
+}
+
+#gecko-shortcodes-wrapper ul {
+	position: absolute;
+	top: 100%;
+	left: 0;
+
+	display: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+	background-color: #FFF;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+#gecko-shortcodes-wrapper ul[data-status="active"] {
+	display: block;
+}
+#gecko-shortcodes-wrapper ul li {
+	display: block;
+	margin: 0;
+	padding: 0.5rem;
+
+	cursor: pointer;
+	transition: background 0.2s ease;
+}
+#gecko-shortcodes-wrapper ul li:hover {
+	background-color: #EEE;
+}

@@ -1,0 +1,3174 @@
+{
+	"icons": {
+		"glass": {
+			"font": "FontAwesome",
+			"name": "Glass",
+			"code": "\\f000"
+		},
+		"music": {
+			"font": "FontAwesome",
+			"name": "Music",
+			"code": "\\f001"
+		},
+		"search": {
+			"font": "FontAwesome",
+			"name": "Search",
+			"code": "\\f002"
+		},
+		"envelope-o": {
+			"font": "FontAwesome",
+			"name": "Envelope Outlined",
+			"code": "\\f003"
+		},
+		"heart": {
+			"font": "FontAwesome",
+			"name": "Heart",
+			"code": "\\f004"
+		},
+		"star": {
+			"font": "FontAwesome",
+			"name": "Star",
+			"code": "\\f005"
+		},
+		"star-o": {
+			"font": "FontAwesome",
+			"name": "Star Outlined",
+			"code": "\\f006"
+		},
+		"user": {
+			"font": "FontAwesome",
+			"name": "User",
+			"code": "\\f007"
+		},
+		"film": {
+			"font": "FontAwesome",
+			"name": "Film",
+			"code": "\\f008"
+		},
+		"th-large": {
+			"font": "FontAwesome",
+			"name": "th-large",
+			"code": "\\f009"
+		},
+		"th": {
+			"font": "FontAwesome",
+			"name": "th",
+			"code": "\\f00a"
+		},
+		"th-list": {
+			"font": "FontAwesome",
+			"name": "th-list",
+			"code": "\\f00b"
+		},
+		"check": {
+			"font": "FontAwesome",
+			"name": "Check",
+			"code": "\\f00c"
+		},
+		"times": {
+			"font": "FontAwesome",
+			"name": "Times",
+			"code": "\\f00d"
+		},
+		"search-plus": {
+			"font": "FontAwesome",
+			"name": "Search Plus",
+			"code": "\\f00e"
+		},
+		"search-minus": {
+			"font": "FontAwesome",
+			"name": "Search Minus",
+			"code": "\\f010"
+		},
+		"power-off": {
+			"font": "FontAwesome",
+			"name": "Power Off",
+			"code": "\\f011"
+		},
+		"signal": {
+			"font": "FontAwesome",
+			"name": "signal",
+			"code": "\\f012"
+		},
+		"cog": {
+			"font": "FontAwesome",
+			"name": "cog",
+			"code": "\\f013"
+		},
+		"trash-o": {
+			"font": "FontAwesome",
+			"name": "Trash Outlined",
+			"code": "\\f014"
+		},
+		"home": {
+			"font": "FontAwesome",
+			"name": "home",
+			"code": "\\f015"
+		},
+		"file-o": {
+			"font": "FontAwesome",
+			"name": "File Outlined",
+			"code": "\\f016"
+		},
+		"clock-o": {
+			"font": "FontAwesome",
+			"name": "Clock Outlined",
+			"code": "\\f017"
+		},
+		"road": {
+			"font": "FontAwesome",
+			"name": "road",
+			"code": "\\f018"
+		},
+		"download": {
+			"font": "FontAwesome",
+			"name": "Download",
+			"code": "\\f019"
+		},
+		"arrow-circle-o-down": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Outlined Down",
+			"code": "\\f01a"
+		},
+		"arrow-circle-o-up": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Outlined Up",
+			"code": "\\f01b"
+		},
+		"inbox": {
+			"font": "FontAwesome",
+			"name": "inbox",
+			"code": "\\f01c"
+		},
+		"play-circle-o": {
+			"font": "FontAwesome",
+			"name": "Play Circle Outlined",
+			"code": "\\f01d"
+		},
+		"repeat": {
+			"font": "FontAwesome",
+			"name": "Repeat",
+			"code": "\\f01e"
+		},
+		"refresh": {
+			"font": "FontAwesome",
+			"name": "refresh",
+			"code": "\\f021"
+		},
+		"list-alt": {
+			"font": "FontAwesome",
+			"name": "list-alt",
+			"code": "\\f022"
+		},
+		"lock": {
+			"font": "FontAwesome",
+			"name": "lock",
+			"code": "\\f023"
+		},
+		"flag": {
+			"font": "FontAwesome",
+			"name": "flag",
+			"code": "\\f024"
+		},
+		"headphones": {
+			"font": "FontAwesome",
+			"name": "headphones",
+			"code": "\\f025"
+		},
+		"volume-off": {
+			"font": "FontAwesome",
+			"name": "volume-off",
+			"code": "\\f026"
+		},
+		"volume-down": {
+			"font": "FontAwesome",
+			"name": "volume-down",
+			"code": "\\f027"
+		},
+		"volume-up": {
+			"font": "FontAwesome",
+			"name": "volume-up",
+			"code": "\\f028"
+		},
+		"qrcode": {
+			"font": "FontAwesome",
+			"name": "qrcode",
+			"code": "\\f029"
+		},
+		"barcode": {
+			"font": "FontAwesome",
+			"name": "barcode",
+			"code": "\\f02a"
+		},
+		"tag": {
+			"font": "FontAwesome",
+			"name": "tag",
+			"code": "\\f02b"
+		},
+		"tags": {
+			"font": "FontAwesome",
+			"name": "tags",
+			"code": "\\f02c"
+		},
+		"book": {
+			"font": "FontAwesome",
+			"name": "book",
+			"code": "\\f02d"
+		},
+		"bookmark": {
+			"font": "FontAwesome",
+			"name": "bookmark",
+			"code": "\\f02e"
+		},
+		"print": {
+			"font": "FontAwesome",
+			"name": "print",
+			"code": "\\f02f"
+		},
+		"camera": {
+			"font": "FontAwesome",
+			"name": "camera",
+			"code": "\\f030"
+		},
+		"font": {
+			"font": "FontAwesome",
+			"name": "font",
+			"code": "\\f031"
+		},
+		"bold": {
+			"font": "FontAwesome",
+			"name": "bold",
+			"code": "\\f032"
+		},
+		"italic": {
+			"font": "FontAwesome",
+			"name": "italic",
+			"code": "\\f033"
+		},
+		"text-height": {
+			"font": "FontAwesome",
+			"name": "text-height",
+			"code": "\\f034"
+		},
+		"text-width": {
+			"font": "FontAwesome",
+			"name": "text-width",
+			"code": "\\f035"
+		},
+		"align-left": {
+			"font": "FontAwesome",
+			"name": "align-left",
+			"code": "\\f036"
+		},
+		"align-center": {
+			"font": "FontAwesome",
+			"name": "align-center",
+			"code": "\\f037"
+		},
+		"align-right": {
+			"font": "FontAwesome",
+			"name": "align-right",
+			"code": "\\f038"
+		},
+		"align-justify": {
+			"font": "FontAwesome",
+			"name": "align-justify",
+			"code": "\\f039"
+		},
+		"list": {
+			"font": "FontAwesome",
+			"name": "list",
+			"code": "\\f03a"
+		},
+		"outdent": {
+			"font": "FontAwesome",
+			"name": "Outdent",
+			"code": "\\f03b"
+		},
+		"indent": {
+			"font": "FontAwesome",
+			"name": "Indent",
+			"code": "\\f03c"
+		},
+		"video-camera": {
+			"font": "FontAwesome",
+			"name": "Video Camera",
+			"code": "\\f03d"
+		},
+		"picture-o": {
+			"font": "FontAwesome",
+			"name": "Picture Outlined",
+			"code": "\\f03e"
+		},
+		"pencil": {
+			"font": "FontAwesome",
+			"name": "pencil",
+			"code": "\\f040"
+		},
+		"map-marker": {
+			"font": "FontAwesome",
+			"name": "map-marker",
+			"code": "\\f041"
+		},
+		"adjust": {
+			"font": "FontAwesome",
+			"name": "adjust",
+			"code": "\\f042"
+		},
+		"tint": {
+			"font": "FontAwesome",
+			"name": "tint",
+			"code": "\\f043"
+		},
+		"pencil-square-o": {
+			"font": "FontAwesome",
+			"name": "Pencil Square Outlined",
+			"code": "\\f044"
+		},
+		"share-square-o": {
+			"font": "FontAwesome",
+			"name": "Share Square Outlined",
+			"code": "\\f045"
+		},
+		"check-square-o": {
+			"font": "FontAwesome",
+			"name": "Check Square Outlined",
+			"code": "\\f046"
+		},
+		"arrows": {
+			"font": "FontAwesome",
+			"name": "Arrows",
+			"code": "\\f047"
+		},
+		"step-backward": {
+			"font": "FontAwesome",
+			"name": "step-backward",
+			"code": "\\f048"
+		},
+		"fast-backward": {
+			"font": "FontAwesome",
+			"name": "fast-backward",
+			"code": "\\f049"
+		},
+		"backward": {
+			"font": "FontAwesome",
+			"name": "backward",
+			"code": "\\f04a"
+		},
+		"play": {
+			"font": "FontAwesome",
+			"name": "play",
+			"code": "\\f04b"
+		},
+		"pause": {
+			"font": "FontAwesome",
+			"name": "pause",
+			"code": "\\f04c"
+		},
+		"stop": {
+			"font": "FontAwesome",
+			"name": "stop",
+			"code": "\\f04d"
+		},
+		"forward": {
+			"font": "FontAwesome",
+			"name": "forward",
+			"code": "\\f04e"
+		},
+		"fast-forward": {
+			"font": "FontAwesome",
+			"name": "fast-forward",
+			"code": "\\f050"
+		},
+		"step-forward": {
+			"font": "FontAwesome",
+			"name": "step-forward",
+			"code": "\\f051"
+		},
+		"eject": {
+			"font": "FontAwesome",
+			"name": "eject",
+			"code": "\\f052"
+		},
+		"chevron-left": {
+			"font": "FontAwesome",
+			"name": "chevron-left",
+			"code": "\\f053"
+		},
+		"chevron-right": {
+			"font": "FontAwesome",
+			"name": "chevron-right",
+			"code": "\\f054"
+		},
+		"plus-circle": {
+			"font": "FontAwesome",
+			"name": "Plus Circle",
+			"code": "\\f055"
+		},
+		"minus-circle": {
+			"font": "FontAwesome",
+			"name": "Minus Circle",
+			"code": "\\f056"
+		},
+		"times-circle": {
+			"font": "FontAwesome",
+			"name": "Times Circle",
+			"code": "\\f057"
+		},
+		"check-circle": {
+			"font": "FontAwesome",
+			"name": "Check Circle",
+			"code": "\\f058"
+		},
+		"question-circle": {
+			"font": "FontAwesome",
+			"name": "Question Circle",
+			"code": "\\f059"
+		},
+		"info-circle": {
+			"font": "FontAwesome",
+			"name": "Info Circle",
+			"code": "\\f05a"
+		},
+		"crosshairs": {
+			"font": "FontAwesome",
+			"name": "Crosshairs",
+			"code": "\\f05b"
+		},
+		"times-circle-o": {
+			"font": "FontAwesome",
+			"name": "Times Circle Outlined",
+			"code": "\\f05c"
+		},
+		"check-circle-o": {
+			"font": "FontAwesome",
+			"name": "Check Circle Outlined",
+			"code": "\\f05d"
+		},
+		"ban": {
+			"font": "FontAwesome",
+			"name": "ban",
+			"code": "\\f05e"
+		},
+		"arrow-left": {
+			"font": "FontAwesome",
+			"name": "arrow-left",
+			"code": "\\f060"
+		},
+		"arrow-right": {
+			"font": "FontAwesome",
+			"name": "arrow-right",
+			"code": "\\f061"
+		},
+		"arrow-up": {
+			"font": "FontAwesome",
+			"name": "arrow-up",
+			"code": "\\f062"
+		},
+		"arrow-down": {
+			"font": "FontAwesome",
+			"name": "arrow-down",
+			"code": "\\f063"
+		},
+		"share": {
+			"font": "FontAwesome",
+			"name": "Share",
+			"code": "\\f064"
+		},
+		"expand": {
+			"font": "FontAwesome",
+			"name": "Expand",
+			"code": "\\f065"
+		},
+		"compress": {
+			"font": "FontAwesome",
+			"name": "Compress",
+			"code": "\\f066"
+		},
+		"plus": {
+			"font": "FontAwesome",
+			"name": "plus",
+			"code": "\\f067"
+		},
+		"minus": {
+			"font": "FontAwesome",
+			"name": "minus",
+			"code": "\\f068"
+		},
+		"asterisk": {
+			"font": "FontAwesome",
+			"name": "asterisk",
+			"code": "\\f069"
+		},
+		"exclamation-circle": {
+			"font": "FontAwesome",
+			"name": "Exclamation Circle",
+			"code": "\\f06a"
+		},
+		"gift": {
+			"font": "FontAwesome",
+			"name": "gift",
+			"code": "\\f06b"
+		},
+		"leaf": {
+			"font": "FontAwesome",
+			"name": "leaf",
+			"code": "\\f06c"
+		},
+		"fire": {
+			"font": "FontAwesome",
+			"name": "fire",
+			"code": "\\f06d"
+		},
+		"eye": {
+			"font": "FontAwesome",
+			"name": "Eye",
+			"code": "\\f06e"
+		},
+		"eye-slash": {
+			"font": "FontAwesome",
+			"name": "Eye Slash",
+			"code": "\\f070"
+		},
+		"exclamation-triangle": {
+			"font": "FontAwesome",
+			"name": "Exclamation Triangle",
+			"code": "\\f071"
+		},
+		"plane": {
+			"font": "FontAwesome",
+			"name": "plane",
+			"code": "\\f072"
+		},
+		"calendar": {
+			"font": "FontAwesome",
+			"name": "calendar",
+			"code": "\\f073"
+		},
+		"random": {
+			"font": "FontAwesome",
+			"name": "random",
+			"code": "\\f074"
+		},
+		"comment": {
+			"font": "FontAwesome",
+			"name": "comment",
+			"code": "\\f075"
+		},
+		"magnet": {
+			"font": "FontAwesome",
+			"name": "magnet",
+			"code": "\\f076"
+		},
+		"chevron-up": {
+			"font": "FontAwesome",
+			"name": "chevron-up",
+			"code": "\\f077"
+		},
+		"chevron-down": {
+			"font": "FontAwesome",
+			"name": "chevron-down",
+			"code": "\\f078"
+		},
+		"retweet": {
+			"font": "FontAwesome",
+			"name": "retweet",
+			"code": "\\f079"
+		},
+		"shopping-cart": {
+			"font": "FontAwesome",
+			"name": "shopping-cart",
+			"code": "\\f07a"
+		},
+		"folder": {
+			"font": "FontAwesome",
+			"name": "Folder",
+			"code": "\\f07b"
+		},
+		"folder-open": {
+			"font": "FontAwesome",
+			"name": "Folder Open",
+			"code": "\\f07c"
+		},
+		"arrows-v": {
+			"font": "FontAwesome",
+			"name": "Arrows Vertical",
+			"code": "\\f07d"
+		},
+		"arrows-h": {
+			"font": "FontAwesome",
+			"name": "Arrows Horizontal",
+			"code": "\\f07e"
+		},
+		"bar-chart": {
+			"font": "FontAwesome",
+			"name": "Bar Chart",
+			"code": "\\f080"
+		},
+		"twitter-square": {
+			"font": "FontAwesome",
+			"name": "Twitter Square",
+			"code": "\\f081"
+		},
+		"facebook-square": {
+			"font": "FontAwesome",
+			"name": "Facebook Square",
+			"code": "\\f082"
+		},
+		"camera-retro": {
+			"font": "FontAwesome",
+			"name": "camera-retro",
+			"code": "\\f083"
+		},
+		"key": {
+			"font": "FontAwesome",
+			"name": "key",
+			"code": "\\f084"
+		},
+		"cogs": {
+			"font": "FontAwesome",
+			"name": "cogs",
+			"code": "\\f085"
+		},
+		"comments": {
+			"font": "FontAwesome",
+			"name": "comments",
+			"code": "\\f086"
+		},
+		"thumbs-o-up": {
+			"font": "FontAwesome",
+			"name": "Thumbs Up Outlined",
+			"code": "\\f087"
+		},
+		"thumbs-o-down": {
+			"font": "FontAwesome",
+			"name": "Thumbs Down Outlined",
+			"code": "\\f088"
+		},
+		"star-half": {
+			"font": "FontAwesome",
+			"name": "star-half",
+			"code": "\\f089"
+		},
+		"heart-o": {
+			"font": "FontAwesome",
+			"name": "Heart Outlined",
+			"code": "\\f08a"
+		},
+		"sign-out": {
+			"font": "FontAwesome",
+			"name": "Sign Out",
+			"code": "\\f08b"
+		},
+		"linkedin-square": {
+			"font": "FontAwesome",
+			"name": "LinkedIn Square",
+			"code": "\\f08c"
+		},
+		"thumb-tack": {
+			"font": "FontAwesome",
+			"name": "Thumb Tack",
+			"code": "\\f08d"
+		},
+		"external-link": {
+			"font": "FontAwesome",
+			"name": "External Link",
+			"code": "\\f08e"
+		},
+		"sign-in": {
+			"font": "FontAwesome",
+			"name": "Sign In",
+			"code": "\\f090"
+		},
+		"trophy": {
+			"font": "FontAwesome",
+			"name": "trophy",
+			"code": "\\f091"
+		},
+		"github-square": {
+			"font": "FontAwesome",
+			"name": "GitHub Square",
+			"code": "\\f092"
+		},
+		"upload": {
+			"font": "FontAwesome",
+			"name": "Upload",
+			"code": "\\f093"
+		},
+		"lemon-o": {
+			"font": "FontAwesome",
+			"name": "Lemon Outlined",
+			"code": "\\f094"
+		},
+		"phone": {
+			"font": "FontAwesome",
+			"name": "Phone",
+			"code": "\\f095"
+		},
+		"square-o": {
+			"font": "FontAwesome",
+			"name": "Square Outlined",
+			"code": "\\f096"
+		},
+		"bookmark-o": {
+			"font": "FontAwesome",
+			"name": "Bookmark Outlined",
+			"code": "\\f097"
+		},
+		"phone-square": {
+			"font": "FontAwesome",
+			"name": "Phone Square",
+			"code": "\\f098"
+		},
+		"twitter": {
+			"font": "FontAwesome",
+			"name": "Twitter",
+			"code": "\\f099"
+		},
+		"facebook": {
+			"font": "FontAwesome",
+			"name": "Facebook",
+			"code": "\\f09a"
+		},
+		"github": {
+			"font": "FontAwesome",
+			"name": "GitHub",
+			"code": "\\f09b"
+		},
+		"unlock": {
+			"font": "FontAwesome",
+			"name": "unlock",
+			"code": "\\f09c"
+		},
+		"credit-card": {
+			"font": "FontAwesome",
+			"name": "credit-card",
+			"code": "\\f09d"
+		},
+		"rss": {
+			"font": "FontAwesome",
+			"name": "rss",
+			"code": "\\f09e"
+		},
+		"hdd-o": {
+			"font": "FontAwesome",
+			"name": "HDD",
+			"code": "\\f0a0"
+		},
+		"bullhorn": {
+			"font": "FontAwesome",
+			"name": "bullhorn",
+			"code": "\\f0a1"
+		},
+		"bell": {
+			"font": "FontAwesome",
+			"name": "bell",
+			"code": "\\f0f3"
+		},
+		"certificate": {
+			"font": "FontAwesome",
+			"name": "certificate",
+			"code": "\\f0a3"
+		},
+		"hand-o-right": {
+			"font": "FontAwesome",
+			"name": "Hand Outlined Right",
+			"code": "\\f0a4"
+		},
+		"hand-o-left": {
+			"font": "FontAwesome",
+			"name": "Hand Outlined Left",
+			"code": "\\f0a5"
+		},
+		"hand-o-up": {
+			"font": "FontAwesome",
+			"name": "Hand Outlined Up",
+			"code": "\\f0a6"
+		},
+		"hand-o-down": {
+			"font": "FontAwesome",
+			"name": "Hand Outlined Down",
+			"code": "\\f0a7"
+		},
+		"arrow-circle-left": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Left",
+			"code": "\\f0a8"
+		},
+		"arrow-circle-right": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Right",
+			"code": "\\f0a9"
+		},
+		"arrow-circle-up": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Up",
+			"code": "\\f0aa"
+		},
+		"arrow-circle-down": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Down",
+			"code": "\\f0ab"
+		},
+		"globe": {
+			"font": "FontAwesome",
+			"name": "Globe",
+			"code": "\\f0ac"
+		},
+		"wrench": {
+			"font": "FontAwesome",
+			"name": "Wrench",
+			"code": "\\f0ad"
+		},
+		"tasks": {
+			"font": "FontAwesome",
+			"name": "Tasks",
+			"code": "\\f0ae"
+		},
+		"filter": {
+			"font": "FontAwesome",
+			"name": "Filter",
+			"code": "\\f0b0"
+		},
+		"briefcase": {
+			"font": "FontAwesome",
+			"name": "Briefcase",
+			"code": "\\f0b1"
+		},
+		"arrows-alt": {
+			"font": "FontAwesome",
+			"name": "Arrows Alt",
+			"code": "\\f0b2"
+		},
+		"users": {
+			"font": "FontAwesome",
+			"name": "Users",
+			"code": "\\f0c0"
+		},
+		"link": {
+			"font": "FontAwesome",
+			"name": "Link",
+			"code": "\\f0c1"
+		},
+		"cloud": {
+			"font": "FontAwesome",
+			"name": "Cloud",
+			"code": "\\f0c2"
+		},
+		"flask": {
+			"font": "FontAwesome",
+			"name": "Flask",
+			"code": "\\f0c3"
+		},
+		"scissors": {
+			"font": "FontAwesome",
+			"name": "Scissors",
+			"code": "\\f0c4"
+		},
+		"files-o": {
+			"font": "FontAwesome",
+			"name": "Files Outlined",
+			"code": "\\f0c5"
+		},
+		"paperclip": {
+			"font": "FontAwesome",
+			"name": "Paperclip",
+			"code": "\\f0c6"
+		},
+		"floppy-o": {
+			"font": "FontAwesome",
+			"name": "Floppy Outlined",
+			"code": "\\f0c7"
+		},
+		"square": {
+			"font": "FontAwesome",
+			"name": "Square",
+			"code": "\\f0c8"
+		},
+		"bars": {
+			"font": "FontAwesome",
+			"name": "Bars",
+			"code": "\\f0c9"
+		},
+		"list-ul": {
+			"font": "FontAwesome",
+			"name": "list-ul",
+			"code": "\\f0ca"
+		},
+		"list-ol": {
+			"font": "FontAwesome",
+			"name": "list-ol",
+			"code": "\\f0cb"
+		},
+		"strikethrough": {
+			"font": "FontAwesome",
+			"name": "Strikethrough",
+			"code": "\\f0cc"
+		},
+		"underline": {
+			"font": "FontAwesome",
+			"name": "Underline",
+			"code": "\\f0cd"
+		},
+		"table": {
+			"font": "FontAwesome",
+			"name": "table",
+			"code": "\\f0ce"
+		},
+		"magic": {
+			"font": "FontAwesome",
+			"name": "magic",
+			"code": "\\f0d0"
+		},
+		"truck": {
+			"font": "FontAwesome",
+			"name": "truck",
+			"code": "\\f0d1"
+		},
+		"pinterest": {
+			"font": "FontAwesome",
+			"name": "Pinterest",
+			"code": "\\f0d2"
+		},
+		"pinterest-square": {
+			"font": "FontAwesome",
+			"name": "Pinterest Square",
+			"code": "\\f0d3"
+		},
+		"google-plus-square": {
+			"font": "FontAwesome",
+			"name": "Google Plus Square",
+			"code": "\\f0d4"
+		},
+		"google-plus": {
+			"font": "FontAwesome",
+			"name": "Google Plus",
+			"code": "\\f0d5"
+		},
+		"money": {
+			"font": "FontAwesome",
+			"name": "Money",
+			"code": "\\f0d6"
+		},
+		"caret-down": {
+			"font": "FontAwesome",
+			"name": "Caret Down",
+			"code": "\\f0d7"
+		},
+		"caret-up": {
+			"font": "FontAwesome",
+			"name": "Caret Up",
+			"code": "\\f0d8"
+		},
+		"caret-left": {
+			"font": "FontAwesome",
+			"name": "Caret Left",
+			"code": "\\f0d9"
+		},
+		"caret-right": {
+			"font": "FontAwesome",
+			"name": "Caret Right",
+			"code": "\\f0da"
+		},
+		"columns": {
+			"font": "FontAwesome",
+			"name": "Columns",
+			"code": "\\f0db"
+		},
+		"sort": {
+			"font": "FontAwesome",
+			"name": "Sort",
+			"code": "\\f0dc"
+		},
+		"sort-desc": {
+			"font": "FontAwesome",
+			"name": "Sort Descending",
+			"code": "\\f0dd"
+		},
+		"sort-asc": {
+			"font": "FontAwesome",
+			"name": "Sort Ascending",
+			"code": "\\f0de"
+		},
+		"envelope": {
+			"font": "FontAwesome",
+			"name": "Envelope",
+			"code": "\\f0e0"
+		},
+		"linkedin": {
+			"font": "FontAwesome",
+			"name": "LinkedIn",
+			"code": "\\f0e1"
+		},
+		"undo": {
+			"font": "FontAwesome",
+			"name": "Undo",
+			"code": "\\f0e2"
+		},
+		"gavel": {
+			"font": "FontAwesome",
+			"name": "Gavel",
+			"code": "\\f0e3"
+		},
+		"tachometer": {
+			"font": "FontAwesome",
+			"name": "Tachometer",
+			"code": "\\f0e4"
+		},
+		"comment-o": {
+			"font": "FontAwesome",
+			"name": "comment-o",
+			"code": "\\f0e5"
+		},
+		"comments-o": {
+			"font": "FontAwesome",
+			"name": "comments-o",
+			"code": "\\f0e6"
+		},
+		"bolt": {
+			"font": "FontAwesome",
+			"name": "Lightning Bolt",
+			"code": "\\f0e7"
+		},
+		"sitemap": {
+			"font": "FontAwesome",
+			"name": "Sitemap",
+			"code": "\\f0e8"
+		},
+		"umbrella": {
+			"font": "FontAwesome",
+			"name": "Umbrella",
+			"code": "\\f0e9"
+		},
+		"clipboard": {
+			"font": "FontAwesome",
+			"name": "Clipboard",
+			"code": "\\f0ea"
+		},
+		"lightbulb-o": {
+			"font": "FontAwesome",
+			"name": "Lightbulb Outlined",
+			"code": "\\f0eb"
+		},
+		"exchange": {
+			"font": "FontAwesome",
+			"name": "Exchange",
+			"code": "\\f0ec"
+		},
+		"cloud-download": {
+			"font": "FontAwesome",
+			"name": "Cloud Download",
+			"code": "\\f0ed"
+		},
+		"cloud-upload": {
+			"font": "FontAwesome",
+			"name": "Cloud Upload",
+			"code": "\\f0ee"
+		},
+		"user-md": {
+			"font": "FontAwesome",
+			"name": "user-md",
+			"code": "\\f0f0"
+		},
+		"stethoscope": {
+			"font": "FontAwesome",
+			"name": "Stethoscope",
+			"code": "\\f0f1"
+		},
+		"suitcase": {
+			"font": "FontAwesome",
+			"name": "Suitcase",
+			"code": "\\f0f2"
+		},
+		"bell-o": {
+			"font": "FontAwesome",
+			"name": "Bell Outlined",
+			"code": "\\f0a2"
+		},
+		"coffee": {
+			"font": "FontAwesome",
+			"name": "Coffee",
+			"code": "\\f0f4"
+		},
+		"cutlery": {
+			"font": "FontAwesome",
+			"name": "Cutlery",
+			"code": "\\f0f5"
+		},
+		"file-text-o": {
+			"font": "FontAwesome",
+			"name": "File Text Outlined",
+			"code": "\\f0f6"
+		},
+		"building-o": {
+			"font": "FontAwesome",
+			"name": "Building Outlined",
+			"code": "\\f0f7"
+		},
+		"hospital-o": {
+			"font": "FontAwesome",
+			"name": "hospital Outlined",
+			"code": "\\f0f8"
+		},
+		"ambulance": {
+			"font": "FontAwesome",
+			"name": "ambulance",
+			"code": "\\f0f9"
+		},
+		"medkit": {
+			"font": "FontAwesome",
+			"name": "medkit",
+			"code": "\\f0fa"
+		},
+		"fighter-jet": {
+			"font": "FontAwesome",
+			"name": "fighter-jet",
+			"code": "\\f0fb"
+		},
+		"beer": {
+			"font": "FontAwesome",
+			"name": "beer",
+			"code": "\\f0fc"
+		},
+		"h-square": {
+			"font": "FontAwesome",
+			"name": "H Square",
+			"code": "\\f0fd"
+		},
+		"plus-square": {
+			"font": "FontAwesome",
+			"name": "Plus Square",
+			"code": "\\f0fe"
+		},
+		"angle-double-left": {
+			"font": "FontAwesome",
+			"name": "Angle Double Left",
+			"code": "\\f100"
+		},
+		"angle-double-right": {
+			"font": "FontAwesome",
+			"name": "Angle Double Right",
+			"code": "\\f101"
+		},
+		"angle-double-up": {
+			"font": "FontAwesome",
+			"name": "Angle Double Up",
+			"code": "\\f102"
+		},
+		"angle-double-down": {
+			"font": "FontAwesome",
+			"name": "Angle Double Down",
+			"code": "\\f103"
+		},
+		"angle-left": {
+			"font": "FontAwesome",
+			"name": "angle-left",
+			"code": "\\f104"
+		},
+		"angle-right": {
+			"font": "FontAwesome",
+			"name": "angle-right",
+			"code": "\\f105"
+		},
+		"angle-up": {
+			"font": "FontAwesome",
+			"name": "angle-up",
+			"code": "\\f106"
+		},
+		"angle-down": {
+			"font": "FontAwesome",
+			"name": "angle-down",
+			"code": "\\f107"
+		},
+		"desktop": {
+			"font": "FontAwesome",
+			"name": "Desktop",
+			"code": "\\f108"
+		},
+		"laptop": {
+			"font": "FontAwesome",
+			"name": "Laptop",
+			"code": "\\f109"
+		},
+		"tablet": {
+			"font": "FontAwesome",
+			"name": "tablet",
+			"code": "\\f10a"
+		},
+		"mobile": {
+			"font": "FontAwesome",
+			"name": "Mobile Phone",
+			"code": "\\f10b"
+		},
+		"circle-o": {
+			"font": "FontAwesome",
+			"name": "Circle Outlined",
+			"code": "\\f10c"
+		},
+		"quote-left": {
+			"font": "FontAwesome",
+			"name": "quote-left",
+			"code": "\\f10d"
+		},
+		"quote-right": {
+			"font": "FontAwesome",
+			"name": "quote-right",
+			"code": "\\f10e"
+		},
+		"spinner": {
+			"font": "FontAwesome",
+			"name": "Spinner",
+			"code": "\\f110"
+		},
+		"circle": {
+			"font": "FontAwesome",
+			"name": "Circle",
+			"code": "\\f111"
+		},
+		"reply": {
+			"font": "FontAwesome",
+			"name": "Reply",
+			"code": "\\f112"
+		},
+		"github-alt": {
+			"font": "FontAwesome",
+			"name": "GitHub Alt",
+			"code": "\\f113"
+		},
+		"folder-o": {
+			"font": "FontAwesome",
+			"name": "Folder Outlined",
+			"code": "\\f114"
+		},
+		"folder-open-o": {
+			"font": "FontAwesome",
+			"name": "Folder Open Outlined",
+			"code": "\\f115"
+		},
+		"smile-o": {
+			"font": "FontAwesome",
+			"name": "Smile Outlined",
+			"code": "\\f118"
+		},
+		"frown-o": {
+			"font": "FontAwesome",
+			"name": "Frown Outlined",
+			"code": "\\f119"
+		},
+		"meh-o": {
+			"font": "FontAwesome",
+			"name": "Meh Outlined",
+			"code": "\\f11a"
+		},
+		"gamepad": {
+			"font": "FontAwesome",
+			"name": "Gamepad",
+			"code": "\\f11b"
+		},
+		"keyboard-o": {
+			"font": "FontAwesome",
+			"name": "Keyboard Outlined",
+			"code": "\\f11c"
+		},
+		"flag-o": {
+			"font": "FontAwesome",
+			"name": "Flag Outlined",
+			"code": "\\f11d"
+		},
+		"flag-checkered": {
+			"font": "FontAwesome",
+			"name": "flag-checkered",
+			"code": "\\f11e"
+		},
+		"terminal": {
+			"font": "FontAwesome",
+			"name": "Terminal",
+			"code": "\\f120"
+		},
+		"code": {
+			"font": "FontAwesome",
+			"name": "Code",
+			"code": "\\f121"
+		},
+		"reply-all": {
+			"font": "FontAwesome",
+			"name": "reply-all",
+			"code": "\\f122"
+		},
+		"star-half-o": {
+			"font": "FontAwesome",
+			"name": "Star Half Outlined",
+			"code": "\\f123"
+		},
+		"location-arrow": {
+			"font": "FontAwesome",
+			"name": "location-arrow",
+			"code": "\\f124"
+		},
+		"crop": {
+			"font": "FontAwesome",
+			"name": "crop",
+			"code": "\\f125"
+		},
+		"code-fork": {
+			"font": "FontAwesome",
+			"name": "code-fork",
+			"code": "\\f126"
+		},
+		"chain-broken": {
+			"font": "FontAwesome",
+			"name": "Chain Broken",
+			"code": "\\f127"
+		},
+		"question": {
+			"font": "FontAwesome",
+			"name": "Question",
+			"code": "\\f128"
+		},
+		"info": {
+			"font": "FontAwesome",
+			"name": "Info",
+			"code": "\\f129"
+		},
+		"exclamation": {
+			"font": "FontAwesome",
+			"name": "exclamation",
+			"code": "\\f12a"
+		},
+		"superscript": {
+			"font": "FontAwesome",
+			"name": "superscript",
+			"code": "\\f12b"
+		},
+		"subscript": {
+			"font": "FontAwesome",
+			"name": "subscript",
+			"code": "\\f12c"
+		},
+		"eraser": {
+			"font": "FontAwesome",
+			"name": "eraser",
+			"code": "\\f12d"
+		},
+		"puzzle-piece": {
+			"font": "FontAwesome",
+			"name": "Puzzle Piece",
+			"code": "\\f12e"
+		},
+		"microphone": {
+			"font": "FontAwesome",
+			"name": "microphone",
+			"code": "\\f130"
+		},
+		"microphone-slash": {
+			"font": "FontAwesome",
+			"name": "Microphone Slash",
+			"code": "\\f131"
+		},
+		"shield": {
+			"font": "FontAwesome",
+			"name": "shield",
+			"code": "\\f132"
+		},
+		"calendar-o": {
+			"font": "FontAwesome",
+			"name": "calendar-o",
+			"code": "\\f133"
+		},
+		"fire-extinguisher": {
+			"font": "FontAwesome",
+			"name": "fire-extinguisher",
+			"code": "\\f134"
+		},
+		"rocket": {
+			"font": "FontAwesome",
+			"name": "rocket",
+			"code": "\\f135"
+		},
+		"maxcdn": {
+			"font": "FontAwesome",
+			"name": "MaxCDN",
+			"code": "\\f136"
+		},
+		"chevron-circle-left": {
+			"font": "FontAwesome",
+			"name": "Chevron Circle Left",
+			"code": "\\f137"
+		},
+		"chevron-circle-right": {
+			"font": "FontAwesome",
+			"name": "Chevron Circle Right",
+			"code": "\\f138"
+		},
+		"chevron-circle-up": {
+			"font": "FontAwesome",
+			"name": "Chevron Circle Up",
+			"code": "\\f139"
+		},
+		"chevron-circle-down": {
+			"font": "FontAwesome",
+			"name": "Chevron Circle Down",
+			"code": "\\f13a"
+		},
+		"html5": {
+			"font": "FontAwesome",
+			"name": "HTML 5 Logo",
+			"code": "\\f13b"
+		},
+		"css3": {
+			"font": "FontAwesome",
+			"name": "CSS 3 Logo",
+			"code": "\\f13c"
+		},
+		"anchor": {
+			"font": "FontAwesome",
+			"name": "Anchor",
+			"code": "\\f13d"
+		},
+		"unlock-alt": {
+			"font": "FontAwesome",
+			"name": "Unlock Alt",
+			"code": "\\f13e"
+		},
+		"bullseye": {
+			"font": "FontAwesome",
+			"name": "Bullseye",
+			"code": "\\f140"
+		},
+		"ellipsis-h": {
+			"font": "FontAwesome",
+			"name": "Ellipsis Horizontal",
+			"code": "\\f141"
+		},
+		"ellipsis-v": {
+			"font": "FontAwesome",
+			"name": "Ellipsis Vertical",
+			"code": "\\f142"
+		},
+		"rss-square": {
+			"font": "FontAwesome",
+			"name": "RSS Square",
+			"code": "\\f143"
+		},
+		"play-circle": {
+			"font": "FontAwesome",
+			"name": "Play Circle",
+			"code": "\\f144"
+		},
+		"ticket": {
+			"font": "FontAwesome",
+			"name": "Ticket",
+			"code": "\\f145"
+		},
+		"minus-square": {
+			"font": "FontAwesome",
+			"name": "Minus Square",
+			"code": "\\f146"
+		},
+		"minus-square-o": {
+			"font": "FontAwesome",
+			"name": "Minus Square Outlined",
+			"code": "\\f147"
+		},
+		"level-up": {
+			"font": "FontAwesome",
+			"name": "Level Up",
+			"code": "\\f148"
+		},
+		"level-down": {
+			"font": "FontAwesome",
+			"name": "Level Down",
+			"code": "\\f149"
+		},
+		"check-square": {
+			"font": "FontAwesome",
+			"name": "Check Square",
+			"code": "\\f14a"
+		},
+		"pencil-square": {
+			"font": "FontAwesome",
+			"name": "Pencil Square",
+			"code": "\\f14b"
+		},
+		"external-link-square": {
+			"font": "FontAwesome",
+			"name": "External Link Square",
+			"code": "\\f14c"
+		},
+		"share-square": {
+			"font": "FontAwesome",
+			"name": "Share Square",
+			"code": "\\f14d"
+		},
+		"compass": {
+			"font": "FontAwesome",
+			"name": "Compass",
+			"code": "\\f14e"
+		},
+		"caret-square-o-down": {
+			"font": "FontAwesome",
+			"name": "Caret Square Outlined Down",
+			"code": "\\f150"
+		},
+		"caret-square-o-up": {
+			"font": "FontAwesome",
+			"name": "Caret Square Outlined Up",
+			"code": "\\f151"
+		},
+		"caret-square-o-right": {
+			"font": "FontAwesome",
+			"name": "Caret Square Outlined Right",
+			"code": "\\f152"
+		},
+		"eur": {
+			"font": "FontAwesome",
+			"name": "Euro (EUR)",
+			"code": "\\f153"
+		},
+		"gbp": {
+			"font": "FontAwesome",
+			"name": "GBP",
+			"code": "\\f154"
+		},
+		"usd": {
+			"font": "FontAwesome",
+			"name": "US Dollar",
+			"code": "\\f155"
+		},
+		"inr": {
+			"font": "FontAwesome",
+			"name": "Indian Rupee (INR)",
+			"code": "\\f156"
+		},
+		"jpy": {
+			"font": "FontAwesome",
+			"name": "Japanese Yen (JPY)",
+			"code": "\\f157"
+		},
+		"rub": {
+			"font": "FontAwesome",
+			"name": "Russian Ruble (RUB)",
+			"code": "\\f158"
+		},
+		"krw": {
+			"font": "FontAwesome",
+			"name": "Korean Won (KRW)",
+			"code": "\\f159"
+		},
+		"btc": {
+			"font": "FontAwesome",
+			"name": "Bitcoin (BTC)",
+			"code": "\\f15a"
+		},
+		"file": {
+			"font": "FontAwesome",
+			"name": "File",
+			"code": "\\f15b"
+		},
+		"file-text": {
+			"font": "FontAwesome",
+			"name": "File Text",
+			"code": "\\f15c"
+		},
+		"sort-alpha-asc": {
+			"font": "FontAwesome",
+			"name": "Sort Alpha Ascending",
+			"code": "\\f15d"
+		},
+		"sort-alpha-desc": {
+			"font": "FontAwesome",
+			"name": "Sort Alpha Descending",
+			"code": "\\f15e"
+		},
+		"sort-amount-asc": {
+			"font": "FontAwesome",
+			"name": "Sort Amount Ascending",
+			"code": "\\f160"
+		},
+		"sort-amount-desc": {
+			"font": "FontAwesome",
+			"name": "Sort Amount Descending",
+			"code": "\\f161"
+		},
+		"sort-numeric-asc": {
+			"font": "FontAwesome",
+			"name": "Sort Numeric Ascending",
+			"code": "\\f162"
+		},
+		"sort-numeric-desc": {
+			"font": "FontAwesome",
+			"name": "Sort Numeric Descending",
+			"code": "\\f163"
+		},
+		"thumbs-up": {
+			"font": "FontAwesome",
+			"name": "thumbs-up",
+			"code": "\\f164"
+		},
+		"thumbs-down": {
+			"font": "FontAwesome",
+			"name": "thumbs-down",
+			"code": "\\f165"
+		},
+		"youtube-square": {
+			"font": "FontAwesome",
+			"name": "YouTube Square",
+			"code": "\\f166"
+		},
+		"youtube": {
+			"font": "FontAwesome",
+			"name": "YouTube",
+			"code": "\\f167"
+		},
+		"xing": {
+			"font": "FontAwesome",
+			"name": "Xing",
+			"code": "\\f168"
+		},
+		"xing-square": {
+			"font": "FontAwesome",
+			"name": "Xing Square",
+			"code": "\\f169"
+		},
+		"youtube-play": {
+			"font": "FontAwesome",
+			"name": "YouTube Play",
+			"code": "\\f16a"
+		},
+		"dropbox": {
+			"font": "FontAwesome",
+			"name": "Dropbox",
+			"code": "\\f16b"
+		},
+		"stack-overflow": {
+			"font": "FontAwesome",
+			"name": "Stack Overflow",
+			"code": "\\f16c"
+		},
+		"instagram": {
+			"font": "FontAwesome",
+			"name": "Instagram",
+			"code": "\\f16d"
+		},
+		"flickr": {
+			"font": "FontAwesome",
+			"name": "Flickr",
+			"code": "\\f16e"
+		},
+		"adn": {
+			"font": "FontAwesome",
+			"name": "App.net",
+			"code": "\\f170"
+		},
+		"bitbucket": {
+			"font": "FontAwesome",
+			"name": "Bitbucket",
+			"code": "\\f171"
+		},
+		"bitbucket-square": {
+			"font": "FontAwesome",
+			"name": "Bitbucket Square",
+			"code": "\\f172"
+		},
+		"tumblr": {
+			"font": "FontAwesome",
+			"name": "Tumblr",
+			"code": "\\f173"
+		},
+		"tumblr-square": {
+			"font": "FontAwesome",
+			"name": "Tumblr Square",
+			"code": "\\f174"
+		},
+		"long-arrow-down": {
+			"font": "FontAwesome",
+			"name": "Long Arrow Down",
+			"code": "\\f175"
+		},
+		"long-arrow-up": {
+			"font": "FontAwesome",
+			"name": "Long Arrow Up",
+			"code": "\\f176"
+		},
+		"long-arrow-left": {
+			"font": "FontAwesome",
+			"name": "Long Arrow Left",
+			"code": "\\f177"
+		},
+		"long-arrow-right": {
+			"font": "FontAwesome",
+			"name": "Long Arrow Right",
+			"code": "\\f178"
+		},
+		"apple": {
+			"font": "FontAwesome",
+			"name": "Apple",
+			"code": "\\f179"
+		},
+		"windows": {
+			"font": "FontAwesome",
+			"name": "Windows",
+			"code": "\\f17a"
+		},
+		"android": {
+			"font": "FontAwesome",
+			"name": "Android",
+			"code": "\\f17b"
+		},
+		"linux": {
+			"font": "FontAwesome",
+			"name": "Linux",
+			"code": "\\f17c"
+		},
+		"dribbble": {
+			"font": "FontAwesome",
+			"name": "Dribbble",
+			"code": "\\f17d"
+		},
+		"skype": {
+			"font": "FontAwesome",
+			"name": "Skype",
+			"code": "\\f17e"
+		},
+		"foursquare": {
+			"font": "FontAwesome",
+			"name": "Foursquare",
+			"code": "\\f180"
+		},
+		"trello": {
+			"font": "FontAwesome",
+			"name": "Trello",
+			"code": "\\f181"
+		},
+		"female": {
+			"font": "FontAwesome",
+			"name": "Female",
+			"code": "\\f182"
+		},
+		"male": {
+			"font": "FontAwesome",
+			"name": "Male",
+			"code": "\\f183"
+		},
+		"gratipay": {
+			"font": "FontAwesome",
+			"name": "Gratipay (Gittip)",
+			"code": "\\f184"
+		},
+		"sun-o": {
+			"font": "FontAwesome",
+			"name": "Sun Outlined",
+			"code": "\\f185"
+		},
+		"moon-o": {
+			"font": "FontAwesome",
+			"name": "Moon Outlined",
+			"code": "\\f186"
+		},
+		"archive": {
+			"font": "FontAwesome",
+			"name": "Archive",
+			"code": "\\f187"
+		},
+		"bug": {
+			"font": "FontAwesome",
+			"name": "Bug",
+			"code": "\\f188"
+		},
+		"vk": {
+			"font": "FontAwesome",
+			"name": "VK",
+			"code": "\\f189"
+		},
+		"weibo": {
+			"font": "FontAwesome",
+			"name": "Weibo",
+			"code": "\\f18a"
+		},
+		"renren": {
+			"font": "FontAwesome",
+			"name": "Renren",
+			"code": "\\f18b"
+		},
+		"pagelines": {
+			"font": "FontAwesome",
+			"name": "Pagelines",
+			"code": "\\f18c"
+		},
+		"stack-exchange": {
+			"font": "FontAwesome",
+			"name": "Stack Exchange",
+			"code": "\\f18d"
+		},
+		"arrow-circle-o-right": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Outlined Right",
+			"code": "\\f18e"
+		},
+		"arrow-circle-o-left": {
+			"font": "FontAwesome",
+			"name": "Arrow Circle Outlined Left",
+			"code": "\\f190"
+		},
+		"caret-square-o-left": {
+			"font": "FontAwesome",
+			"name": "Caret Square Outlined Left",
+			"code": "\\f191"
+		},
+		"dot-circle-o": {
+			"font": "FontAwesome",
+			"name": "Dot Circle Outlined",
+			"code": "\\f192"
+		},
+		"wheelchair": {
+			"font": "FontAwesome",
+			"name": "Wheelchair",
+			"code": "\\f193"
+		},
+		"vimeo-square": {
+			"font": "FontAwesome",
+			"name": "Vimeo Square",
+			"code": "\\f194"
+		},
+		"try": {
+			"font": "FontAwesome",
+			"name": "Turkish Lira (TRY)",
+			"code": "\\f195"
+		},
+		"plus-square-o": {
+			"font": "FontAwesome",
+			"name": "Plus Square Outlined",
+			"code": "\\f196"
+		},
+		"space-shuttle": {
+			"font": "FontAwesome",
+			"name": "Space Shuttle",
+			"code": "\\f197"
+		},
+		"slack": {
+			"font": "FontAwesome",
+			"name": "Slack Logo",
+			"code": "\\f198"
+		},
+		"envelope-square": {
+			"font": "FontAwesome",
+			"name": "Envelope Square",
+			"code": "\\f199"
+		},
+		"wordpress": {
+			"font": "FontAwesome",
+			"name": "WordPress Logo",
+			"code": "\\f19a"
+		},
+		"openid": {
+			"font": "FontAwesome",
+			"name": "OpenID",
+			"code": "\\f19b"
+		},
+		"university": {
+			"font": "FontAwesome",
+			"name": "University",
+			"code": "\\f19c"
+		},
+		"graduation-cap": {
+			"font": "FontAwesome",
+			"name": "Graduation Cap",
+			"code": "\\f19d"
+		},
+		"yahoo": {
+			"font": "FontAwesome",
+			"name": "Yahoo Logo",
+			"code": "\\f19e"
+		},
+		"google": {
+			"font": "FontAwesome",
+			"name": "Google Logo",
+			"code": "\\f1a0"
+		},
+		"reddit": {
+			"font": "FontAwesome",
+			"name": "reddit Logo",
+			"code": "\\f1a1"
+		},
+		"reddit-square": {
+			"font": "FontAwesome",
+			"name": "reddit Square",
+			"code": "\\f1a2"
+		},
+		"stumbleupon-circle": {
+			"font": "FontAwesome",
+			"name": "StumbleUpon Circle",
+			"code": "\\f1a3"
+		},
+		"stumbleupon": {
+			"font": "FontAwesome",
+			"name": "StumbleUpon Logo",
+			"code": "\\f1a4"
+		},
+		"delicious": {
+			"font": "FontAwesome",
+			"name": "Delicious Logo",
+			"code": "\\f1a5"
+		},
+		"digg": {
+			"font": "FontAwesome",
+			"name": "Digg Logo",
+			"code": "\\f1a6"
+		},
+		"pied-piper-pp": {
+			"font": "FontAwesome",
+			"name": "Pied Piper PP Logo (Old)",
+			"code": "\\f1a7"
+		},
+		"pied-piper-alt": {
+			"font": "FontAwesome",
+			"name": "Pied Piper Alternate Logo",
+			"code": "\\f1a8"
+		},
+		"drupal": {
+			"font": "FontAwesome",
+			"name": "Drupal Logo",
+			"code": "\\f1a9"
+		},
+		"joomla": {
+			"font": "FontAwesome",
+			"name": "Joomla Logo",
+			"code": "\\f1aa"
+		},
+		"language": {
+			"font": "FontAwesome",
+			"name": "Language",
+			"code": "\\f1ab"
+		},
+		"fax": {
+			"font": "FontAwesome",
+			"name": "Fax",
+			"code": "\\f1ac"
+		},
+		"building": {
+			"font": "FontAwesome",
+			"name": "Building",
+			"code": "\\f1ad"
+		},
+		"child": {
+			"font": "FontAwesome",
+			"name": "Child",
+			"code": "\\f1ae"
+		},
+		"paw": {
+			"font": "FontAwesome",
+			"name": "Paw",
+			"code": "\\f1b0"
+		},
+		"spoon": {
+			"font": "FontAwesome",
+			"name": "spoon",
+			"code": "\\f1b1"
+		},
+		"cube": {
+			"font": "FontAwesome",
+			"name": "Cube",
+			"code": "\\f1b2"
+		},
+		"cubes": {
+			"font": "FontAwesome",
+			"name": "Cubes",
+			"code": "\\f1b3"
+		},
+		"behance": {
+			"font": "FontAwesome",
+			"name": "Behance",
+			"code": "\\f1b4"
+		},
+		"behance-square": {
+			"font": "FontAwesome",
+			"name": "Behance Square",
+			"code": "\\f1b5"
+		},
+		"steam": {
+			"font": "FontAwesome",
+			"name": "Steam",
+			"code": "\\f1b6"
+		},
+		"steam-square": {
+			"font": "FontAwesome",
+			"name": "Steam Square",
+			"code": "\\f1b7"
+		},
+		"recycle": {
+			"font": "FontAwesome",
+			"name": "Recycle",
+			"code": "\\f1b8"
+		},
+		"car": {
+			"font": "FontAwesome",
+			"name": "Car",
+			"code": "\\f1b9"
+		},
+		"taxi": {
+			"font": "FontAwesome",
+			"name": "Taxi",
+			"code": "\\f1ba"
+		},
+		"tree": {
+			"font": "FontAwesome",
+			"name": "Tree",
+			"code": "\\f1bb"
+		},
+		"spotify": {
+			"font": "FontAwesome",
+			"name": "Spotify",
+			"code": "\\f1bc"
+		},
+		"deviantart": {
+			"font": "FontAwesome",
+			"name": "deviantART",
+			"code": "\\f1bd"
+		},
+		"soundcloud": {
+			"font": "FontAwesome",
+			"name": "SoundCloud",
+			"code": "\\f1be"
+		},
+		"database": {
+			"font": "FontAwesome",
+			"name": "Database",
+			"code": "\\f1c0"
+		},
+		"file-pdf-o": {
+			"font": "FontAwesome",
+			"name": "PDF File Outlined",
+			"code": "\\f1c1"
+		},
+		"file-word-o": {
+			"font": "FontAwesome",
+			"name": "Word File Outlined",
+			"code": "\\f1c2"
+		},
+		"file-excel-o": {
+			"font": "FontAwesome",
+			"name": "Excel File Outlined",
+			"code": "\\f1c3"
+		},
+		"file-powerpoint-o": {
+			"font": "FontAwesome",
+			"name": "Powerpoint File Outlined",
+			"code": "\\f1c4"
+		},
+		"file-image-o": {
+			"font": "FontAwesome",
+			"name": "Image File Outlined",
+			"code": "\\f1c5"
+		},
+		"file-archive-o": {
+			"font": "FontAwesome",
+			"name": "Archive File Outlined",
+			"code": "\\f1c6"
+		},
+		"file-audio-o": {
+			"font": "FontAwesome",
+			"name": "Audio File Outlined",
+			"code": "\\f1c7"
+		},
+		"file-video-o": {
+			"font": "FontAwesome",
+			"name": "Video File Outlined",
+			"code": "\\f1c8"
+		},
+		"file-code-o": {
+			"font": "FontAwesome",
+			"name": "Code File Outlined",
+			"code": "\\f1c9"
+		},
+		"vine": {
+			"font": "FontAwesome",
+			"name": "Vine",
+			"code": "\\f1ca"
+		},
+		"codepen": {
+			"font": "FontAwesome",
+			"name": "Codepen",
+			"code": "\\f1cb"
+		},
+		"jsfiddle": {
+			"font": "FontAwesome",
+			"name": "jsFiddle",
+			"code": "\\f1cc"
+		},
+		"life-ring": {
+			"font": "FontAwesome",
+			"name": "Life Ring",
+			"code": "\\f1cd"
+		},
+		"circle-o-notch": {
+			"font": "FontAwesome",
+			"name": "Circle Outlined Notched",
+			"code": "\\f1ce"
+		},
+		"rebel": {
+			"font": "FontAwesome",
+			"name": "Rebel Alliance",
+			"code": "\\f1d0"
+		},
+		"empire": {
+			"font": "FontAwesome",
+			"name": "Galactic Empire",
+			"code": "\\f1d1"
+		},
+		"git-square": {
+			"font": "FontAwesome",
+			"name": "Git Square",
+			"code": "\\f1d2"
+		},
+		"git": {
+			"font": "FontAwesome",
+			"name": "Git",
+			"code": "\\f1d3"
+		},
+		"hacker-news": {
+			"font": "FontAwesome",
+			"name": "Hacker News",
+			"code": "\\f1d4"
+		},
+		"tencent-weibo": {
+			"font": "FontAwesome",
+			"name": "Tencent Weibo",
+			"code": "\\f1d5"
+		},
+		"qq": {
+			"font": "FontAwesome",
+			"name": "QQ",
+			"code": "\\f1d6"
+		},
+		"weixin": {
+			"font": "FontAwesome",
+			"name": "Weixin (WeChat)",
+			"code": "\\f1d7"
+		},
+		"paper-plane": {
+			"font": "FontAwesome",
+			"name": "Paper Plane",
+			"code": "\\f1d8"
+		},
+		"paper-plane-o": {
+			"font": "FontAwesome",
+			"name": "Paper Plane Outlined",
+			"code": "\\f1d9"
+		},
+		"history": {
+			"font": "FontAwesome",
+			"name": "History",
+			"code": "\\f1da"
+		},
+		"circle-thin": {
+			"font": "FontAwesome",
+			"name": "Circle Outlined Thin",
+			"code": "\\f1db"
+		},
+		"header": {
+			"font": "FontAwesome",
+			"name": "header",
+			"code": "\\f1dc"
+		},
+		"paragraph": {
+			"font": "FontAwesome",
+			"name": "paragraph",
+			"code": "\\f1dd"
+		},
+		"sliders": {
+			"font": "FontAwesome",
+			"name": "Sliders",
+			"code": "\\f1de"
+		},
+		"share-alt": {
+			"font": "FontAwesome",
+			"name": "Share Alt",
+			"code": "\\f1e0"
+		},
+		"share-alt-square": {
+			"font": "FontAwesome",
+			"name": "Share Alt Square",
+			"code": "\\f1e1"
+		},
+		"bomb": {
+			"font": "FontAwesome",
+			"name": "Bomb",
+			"code": "\\f1e2"
+		},
+		"futbol-o": {
+			"font": "FontAwesome",
+			"name": "Futbol Outlined",
+			"code": "\\f1e3"
+		},
+		"tty": {
+			"font": "FontAwesome",
+			"name": "TTY",
+			"code": "\\f1e4"
+		},
+		"binoculars": {
+			"font": "FontAwesome",
+			"name": "Binoculars",
+			"code": "\\f1e5"
+		},
+		"plug": {
+			"font": "FontAwesome",
+			"name": "Plug",
+			"code": "\\f1e6"
+		},
+		"slideshare": {
+			"font": "FontAwesome",
+			"name": "Slideshare",
+			"code": "\\f1e7"
+		},
+		"twitch": {
+			"font": "FontAwesome",
+			"name": "Twitch",
+			"code": "\\f1e8"
+		},
+		"yelp": {
+			"font": "FontAwesome",
+			"name": "Yelp",
+			"code": "\\f1e9"
+		},
+		"newspaper-o": {
+			"font": "FontAwesome",
+			"name": "Newspaper Outlined",
+			"code": "\\f1ea"
+		},
+		"wifi": {
+			"font": "FontAwesome",
+			"name": "WiFi",
+			"code": "\\f1eb"
+		},
+		"calculator": {
+			"font": "FontAwesome",
+			"name": "Calculator",
+			"code": "\\f1ec"
+		},
+		"paypal": {
+			"font": "FontAwesome",
+			"name": "Paypal",
+			"code": "\\f1ed"
+		},
+		"google-wallet": {
+			"font": "FontAwesome",
+			"name": "Google Wallet",
+			"code": "\\f1ee"
+		},
+		"cc-visa": {
+			"font": "FontAwesome",
+			"name": "Visa Credit Card",
+			"code": "\\f1f0"
+		},
+		"cc-mastercard": {
+			"font": "FontAwesome",
+			"name": "MasterCard Credit Card",
+			"code": "\\f1f1"
+		},
+		"cc-discover": {
+			"font": "FontAwesome",
+			"name": "Discover Credit Card",
+			"code": "\\f1f2"
+		},
+		"cc-amex": {
+			"font": "FontAwesome",
+			"name": "American Express Credit Card",
+			"code": "\\f1f3"
+		},
+		"cc-paypal": {
+			"font": "FontAwesome",
+			"name": "Paypal Credit Card",
+			"code": "\\f1f4"
+		},
+		"cc-stripe": {
+			"font": "FontAwesome",
+			"name": "Stripe Credit Card",
+			"code": "\\f1f5"
+		},
+		"bell-slash": {
+			"font": "FontAwesome",
+			"name": "Bell Slash",
+			"code": "\\f1f6"
+		},
+		"bell-slash-o": {
+			"font": "FontAwesome",
+			"name": "Bell Slash Outlined",
+			"code": "\\f1f7"
+		},
+		"trash": {
+			"font": "FontAwesome",
+			"name": "Trash",
+			"code": "\\f1f8"
+		},
+		"copyright": {
+			"font": "FontAwesome",
+			"name": "Copyright",
+			"code": "\\f1f9"
+		},
+		"at": {
+			"font": "FontAwesome",
+			"name": "At",
+			"code": "\\f1fa"
+		},
+		"eyedropper": {
+			"font": "FontAwesome",
+			"name": "Eyedropper",
+			"code": "\\f1fb"
+		},
+		"paint-brush": {
+			"font": "FontAwesome",
+			"name": "Paint Brush",
+			"code": "\\f1fc"
+		},
+		"birthday-cake": {
+			"font": "FontAwesome",
+			"name": "Birthday Cake",
+			"code": "\\f1fd"
+		},
+		"area-chart": {
+			"font": "FontAwesome",
+			"name": "Area Chart",
+			"code": "\\f1fe"
+		},
+		"pie-chart": {
+			"font": "FontAwesome",
+			"name": "Pie Chart",
+			"code": "\\f200"
+		},
+		"line-chart": {
+			"font": "FontAwesome",
+			"name": "Line Chart",
+			"code": "\\f201"
+		},
+		"lastfm": {
+			"font": "FontAwesome",
+			"name": "last.fm",
+			"code": "\\f202"
+		},
+		"lastfm-square": {
+			"font": "FontAwesome",
+			"name": "last.fm Square",
+			"code": "\\f203"
+		},
+		"toggle-off": {
+			"font": "FontAwesome",
+			"name": "Toggle Off",
+			"code": "\\f204"
+		},
+		"toggle-on": {
+			"font": "FontAwesome",
+			"name": "Toggle On",
+			"code": "\\f205"
+		},
+		"bicycle": {
+			"font": "FontAwesome",
+			"name": "Bicycle",
+			"code": "\\f206"
+		},
+		"bus": {
+			"font": "FontAwesome",
+			"name": "Bus",
+			"code": "\\f207"
+		},
+		"ioxhost": {
+			"font": "FontAwesome",
+			"name": "ioxhost",
+			"code": "\\f208"
+		},
+		"angellist": {
+			"font": "FontAwesome",
+			"name": "AngelList",
+			"code": "\\f209"
+		},
+		"cc": {
+			"font": "FontAwesome",
+			"name": "Closed Captions",
+			"code": "\\f20a"
+		},
+		"ils": {
+			"font": "FontAwesome",
+			"name": "Shekel (ILS)",
+			"code": "\\f20b"
+		},
+		"meanpath": {
+			"font": "FontAwesome",
+			"name": "meanpath",
+			"code": "\\f20c"
+		},
+		"buysellads": {
+			"font": "FontAwesome",
+			"name": "BuySellAds",
+			"code": "\\f20d"
+		},
+		"connectdevelop": {
+			"font": "FontAwesome",
+			"name": "Connect Develop",
+			"code": "\\f20e"
+		},
+		"dashcube": {
+			"font": "FontAwesome",
+			"name": "DashCube",
+			"code": "\\f210"
+		},
+		"forumbee": {
+			"font": "FontAwesome",
+			"name": "Forumbee",
+			"code": "\\f211"
+		},
+		"leanpub": {
+			"font": "FontAwesome",
+			"name": "Leanpub",
+			"code": "\\f212"
+		},
+		"sellsy": {
+			"font": "FontAwesome",
+			"name": "Sellsy",
+			"code": "\\f213"
+		},
+		"shirtsinbulk": {
+			"font": "FontAwesome",
+			"name": "Shirts in Bulk",
+			"code": "\\f214"
+		},
+		"simplybuilt": {
+			"font": "FontAwesome",
+			"name": "SimplyBuilt",
+			"code": "\\f215"
+		},
+		"skyatlas": {
+			"font": "FontAwesome",
+			"name": "skyatlas",
+			"code": "\\f216"
+		},
+		"cart-plus": {
+			"font": "FontAwesome",
+			"name": "Add to Shopping Cart",
+			"code": "\\f217"
+		},
+		"cart-arrow-down": {
+			"font": "FontAwesome",
+			"name": "Shopping Cart Arrow Down",
+			"code": "\\f218"
+		},
+		"diamond": {
+			"font": "FontAwesome",
+			"name": "Diamond",
+			"code": "\\f219"
+		},
+		"ship": {
+			"font": "FontAwesome",
+			"name": "Ship",
+			"code": "\\f21a"
+		},
+		"user-secret": {
+			"font": "FontAwesome",
+			"name": "User Secret",
+			"code": "\\f21b"
+		},
+		"motorcycle": {
+			"font": "FontAwesome",
+			"name": "Motorcycle",
+			"code": "\\f21c"
+		},
+		"street-view": {
+			"font": "FontAwesome",
+			"name": "Street View",
+			"code": "\\f21d"
+		},
+		"heartbeat": {
+			"font": "FontAwesome",
+			"name": "Heartbeat",
+			"code": "\\f21e"
+		},
+		"venus": {
+			"font": "FontAwesome",
+			"name": "Venus",
+			"code": "\\f221"
+		},
+		"mars": {
+			"font": "FontAwesome",
+			"name": "Mars",
+			"code": "\\f222"
+		},
+		"mercury": {
+			"font": "FontAwesome",
+			"name": "Mercury",
+			"code": "\\f223"
+		},
+		"transgender": {
+			"font": "FontAwesome",
+			"name": "Transgender",
+			"code": "\\f224"
+		},
+		"transgender-alt": {
+			"font": "FontAwesome",
+			"name": "Transgender Alt",
+			"code": "\\f225"
+		},
+		"venus-double": {
+			"font": "FontAwesome",
+			"name": "Venus Double",
+			"code": "\\f226"
+		},
+		"mars-double": {
+			"font": "FontAwesome",
+			"name": "Mars Double",
+			"code": "\\f227"
+		},
+		"venus-mars": {
+			"font": "FontAwesome",
+			"name": "Venus Mars",
+			"code": "\\f228"
+		},
+		"mars-stroke": {
+			"font": "FontAwesome",
+			"name": "Mars Stroke",
+			"code": "\\f229"
+		},
+		"mars-stroke-v": {
+			"font": "FontAwesome",
+			"name": "Mars Stroke Vertical",
+			"code": "\\f22a"
+		},
+		"mars-stroke-h": {
+			"font": "FontAwesome",
+			"name": "Mars Stroke Horizontal",
+			"code": "\\f22b"
+		},
+		"neuter": {
+			"font": "FontAwesome",
+			"name": "Neuter",
+			"code": "\\f22c"
+		},
+		"genderless": {
+			"font": "FontAwesome",
+			"name": "Genderless",
+			"code": "\\f22d"
+		},
+		"facebook-official": {
+			"font": "FontAwesome",
+			"name": "Facebook Official",
+			"code": "\\f230"
+		},
+		"pinterest-p": {
+			"font": "FontAwesome",
+			"name": "Pinterest P",
+			"code": "\\f231"
+		},
+		"whatsapp": {
+			"font": "FontAwesome",
+			"name": "What's App",
+			"code": "\\f232"
+		},
+		"server": {
+			"font": "FontAwesome",
+			"name": "Server",
+			"code": "\\f233"
+		},
+		"user-plus": {
+			"font": "FontAwesome",
+			"name": "Add User",
+			"code": "\\f234"
+		},
+		"user-times": {
+			"font": "FontAwesome",
+			"name": "Remove User",
+			"code": "\\f235"
+		},
+		"bed": {
+			"font": "FontAwesome",
+			"name": "Bed",
+			"code": "\\f236"
+		},
+		"viacoin": {
+			"font": "FontAwesome",
+			"name": "Viacoin",
+			"code": "\\f237"
+		},
+		"train": {
+			"font": "FontAwesome",
+			"name": "Train",
+			"code": "\\f238"
+		},
+		"subway": {
+			"font": "FontAwesome",
+			"name": "Subway",
+			"code": "\\f239"
+		},
+		"medium": {
+			"font": "FontAwesome",
+			"name": "Medium",
+			"code": "\\f23a"
+		},
+		"y-combinator": {
+			"font": "FontAwesome",
+			"name": "Y Combinator",
+			"code": "\\f23b"
+		},
+		"optin-monster": {
+			"font": "FontAwesome",
+			"name": "Optin Monster",
+			"code": "\\f23c"
+		},
+		"opencart": {
+			"font": "FontAwesome",
+			"name": "OpenCart",
+			"code": "\\f23d"
+		},
+		"expeditedssl": {
+			"font": "FontAwesome",
+			"name": "ExpeditedSSL",
+			"code": "\\f23e"
+		},
+		"battery-full": {
+			"font": "FontAwesome",
+			"name": "Battery Full",
+			"code": "\\f240"
+		},
+		"battery-three-quarters": {
+			"font": "FontAwesome",
+			"name": "Battery 3/4 Full",
+			"code": "\\f241"
+		},
+		"battery-half": {
+			"font": "FontAwesome",
+			"name": "Battery 1/2 Full",
+			"code": "\\f242"
+		},
+		"battery-quarter": {
+			"font": "FontAwesome",
+			"name": "Battery 1/4 Full",
+			"code": "\\f243"
+		},
+		"battery-empty": {
+			"font": "FontAwesome",
+			"name": "Battery Empty",
+			"code": "\\f244"
+		},
+		"mouse-pointer": {
+			"font": "FontAwesome",
+			"name": "Mouse Pointer",
+			"code": "\\f245"
+		},
+		"i-cursor": {
+			"font": "FontAwesome",
+			"name": "I Beam Cursor",
+			"code": "\\f246"
+		},
+		"object-group": {
+			"font": "FontAwesome",
+			"name": "Object Group",
+			"code": "\\f247"
+		},
+		"object-ungroup": {
+			"font": "FontAwesome",
+			"name": "Object Ungroup",
+			"code": "\\f248"
+		},
+		"sticky-note": {
+			"font": "FontAwesome",
+			"name": "Sticky Note",
+			"code": "\\f249"
+		},
+		"sticky-note-o": {
+			"font": "FontAwesome",
+			"name": "Sticky Note Outlined",
+			"code": "\\f24a"
+		},
+		"cc-jcb": {
+			"font": "FontAwesome",
+			"name": "JCB Credit Card",
+			"code": "\\f24b"
+		},
+		"cc-diners-club": {
+			"font": "FontAwesome",
+			"name": "Diner's Club Credit Card",
+			"code": "\\f24c"
+		},
+		"clone": {
+			"font": "FontAwesome",
+			"name": "Clone",
+			"code": "\\f24d"
+		},
+		"balance-scale": {
+			"font": "FontAwesome",
+			"name": "Balance Scale",
+			"code": "\\f24e"
+		},
+		"hourglass-o": {
+			"font": "FontAwesome",
+			"name": "Hourglass Outlined",
+			"code": "\\f250"
+		},
+		"hourglass-start": {
+			"font": "FontAwesome",
+			"name": "Hourglass Start",
+			"code": "\\f251"
+		},
+		"hourglass-half": {
+			"font": "FontAwesome",
+			"name": "Hourglass Half",
+			"code": "\\f252"
+		},
+		"hourglass-end": {
+			"font": "FontAwesome",
+			"name": "Hourglass End",
+			"code": "\\f253"
+		},
+		"hourglass": {
+			"font": "FontAwesome",
+			"name": "Hourglass",
+			"code": "\\f254"
+		},
+		"hand-rock-o": {
+			"font": "FontAwesome",
+			"name": "Rock (Hand)",
+			"code": "\\f255"
+		},
+		"hand-paper-o": {
+			"font": "FontAwesome",
+			"name": "Paper (Hand)",
+			"code": "\\f256"
+		},
+		"hand-scissors-o": {
+			"font": "FontAwesome",
+			"name": "Scissors (Hand)",
+			"code": "\\f257"
+		},
+		"hand-lizard-o": {
+			"font": "FontAwesome",
+			"name": "Lizard (Hand)",
+			"code": "\\f258"
+		},
+		"hand-spock-o": {
+			"font": "FontAwesome",
+			"name": "Spock (Hand)",
+			"code": "\\f259"
+		},
+		"hand-pointer-o": {
+			"font": "FontAwesome",
+			"name": "Hand Pointer",
+			"code": "\\f25a"
+		},
+		"hand-peace-o": {
+			"font": "FontAwesome",
+			"name": "Hand Peace",
+			"code": "\\f25b"
+		},
+		"trademark": {
+			"font": "FontAwesome",
+			"name": "Trademark",
+			"code": "\\f25c"
+		},
+		"registered": {
+			"font": "FontAwesome",
+			"name": "Registered Trademark",
+			"code": "\\f25d"
+		},
+		"creative-commons": {
+			"font": "FontAwesome",
+			"name": "Creative Commons",
+			"code": "\\f25e"
+		},
+		"gg": {
+			"font": "FontAwesome",
+			"name": "GG Currency",
+			"code": "\\f260"
+		},
+		"gg-circle": {
+			"font": "FontAwesome",
+			"name": "GG Currency Circle",
+			"code": "\\f261"
+		},
+		"tripadvisor": {
+			"font": "FontAwesome",
+			"name": "TripAdvisor",
+			"code": "\\f262"
+		},
+		"odnoklassniki": {
+			"font": "FontAwesome",
+			"name": "Odnoklassniki",
+			"code": "\\f263"
+		},
+		"odnoklassniki-square": {
+			"font": "FontAwesome",
+			"name": "Odnoklassniki Square",
+			"code": "\\f264"
+		},
+		"get-pocket": {
+			"font": "FontAwesome",
+			"name": "Get Pocket",
+			"code": "\\f265"
+		},
+		"wikipedia-w": {
+			"font": "FontAwesome",
+			"name": "Wikipedia W",
+			"code": "\\f266"
+		},
+		"safari": {
+			"font": "FontAwesome",
+			"name": "Safari",
+			"code": "\\f267"
+		},
+		"chrome": {
+			"font": "FontAwesome",
+			"name": "Chrome",
+			"code": "\\f268"
+		},
+		"firefox": {
+			"font": "FontAwesome",
+			"name": "Firefox",
+			"code": "\\f269"
+		},
+		"opera": {
+			"font": "FontAwesome",
+			"name": "Opera",
+			"code": "\\f26a"
+		},
+		"internet-explorer": {
+			"font": "FontAwesome",
+			"name": "Internet-explorer",
+			"code": "\\f26b"
+		},
+		"television": {
+			"font": "FontAwesome",
+			"name": "Television",
+			"code": "\\f26c"
+		},
+		"contao": {
+			"font": "FontAwesome",
+			"name": "Contao",
+			"code": "\\f26d"
+		},
+		"500px": {
+			"font": "FontAwesome",
+			"name": "500px",
+			"code": "\\f26e"
+		},
+		"amazon": {
+			"font": "FontAwesome",
+			"name": "Amazon",
+			"code": "\\f270"
+		},
+		"calendar-plus-o": {
+			"font": "FontAwesome",
+			"name": "Calendar Plus Outlined",
+			"code": "\\f271"
+		},
+		"calendar-minus-o": {
+			"font": "FontAwesome",
+			"name": "Calendar Minus Outlined",
+			"code": "\\f272"
+		},
+		"calendar-times-o": {
+			"font": "FontAwesome",
+			"name": "Calendar Times Outlined",
+			"code": "\\f273"
+		},
+		"calendar-check-o": {
+			"font": "FontAwesome",
+			"name": "Calendar Check Outlined",
+			"code": "\\f274"
+		},
+		"industry": {
+			"font": "FontAwesome",
+			"name": "Industry",
+			"code": "\\f275"
+		},
+		"map-pin": {
+			"font": "FontAwesome",
+			"name": "Map Pin",
+			"code": "\\f276"
+		},
+		"map-signs": {
+			"font": "FontAwesome",
+			"name": "Map Signs",
+			"code": "\\f277"
+		},
+		"map-o": {
+			"font": "FontAwesome",
+			"name": "Map Outlined",
+			"code": "\\f278"
+		},
+		"map": {
+			"font": "FontAwesome",
+			"name": "Map",
+			"code": "\\f279"
+		},
+		"commenting": {
+			"font": "FontAwesome",
+			"name": "Commenting",
+			"code": "\\f27a"
+		},
+		"commenting-o": {
+			"font": "FontAwesome",
+			"name": "Commenting Outlined",
+			"code": "\\f27b"
+		},
+		"houzz": {
+			"font": "FontAwesome",
+			"name": "Houzz",
+			"code": "\\f27c"
+		},
+		"vimeo": {
+			"font": "FontAwesome",
+			"name": "Vimeo",
+			"code": "\\f27d"
+		},
+		"black-tie": {
+			"font": "FontAwesome",
+			"name": "Font Awesome Black Tie",
+			"code": "\\f27e"
+		},
+		"fonticons": {
+			"font": "FontAwesome",
+			"name": "Fonticons",
+			"code": "\\f280"
+		},
+		"reddit-alien": {
+			"font": "FontAwesome",
+			"name": "reddit Alien",
+			"code": "\\f281"
+		},
+		"edge": {
+			"font": "FontAwesome",
+			"name": "Edge Browser",
+			"code": "\\f282"
+		},
+		"credit-card-alt": {
+			"font": "FontAwesome",
+			"name": "Credit Card",
+			"code": "\\f283"
+		},
+		"codiepie": {
+			"font": "FontAwesome",
+			"name": "Codie Pie",
+			"code": "\\f284"
+		},
+		"modx": {
+			"font": "FontAwesome",
+			"name": "MODX",
+			"code": "\\f285"
+		},
+		"fort-awesome": {
+			"font": "FontAwesome",
+			"name": "Fort Awesome",
+			"code": "\\f286"
+		},
+		"usb": {
+			"font": "FontAwesome",
+			"name": "USB",
+			"code": "\\f287"
+		},
+		"product-hunt": {
+			"font": "FontAwesome",
+			"name": "Product Hunt",
+			"code": "\\f288"
+		},
+		"mixcloud": {
+			"font": "FontAwesome",
+			"name": "Mixcloud",
+			"code": "\\f289"
+		},
+		"scribd": {
+			"font": "FontAwesome",
+			"name": "Scribd",
+			"code": "\\f28a"
+		},
+		"pause-circle": {
+			"font": "FontAwesome",
+			"name": "Pause Circle",
+			"code": "\\f28b"
+		},
+		"pause-circle-o": {
+			"font": "FontAwesome",
+			"name": "Pause Circle Outlined",
+			"code": "\\f28c"
+		},
+		"stop-circle": {
+			"font": "FontAwesome",
+			"name": "Stop Circle",
+			"code": "\\f28d"
+		},
+		"stop-circle-o": {
+			"font": "FontAwesome",
+			"name": "Stop Circle Outlined",
+			"code": "\\f28e"
+		},
+		"shopping-bag": {
+			"font": "FontAwesome",
+			"name": "Shopping Bag",
+			"code": "\\f290"
+		},
+		"shopping-basket": {
+			"font": "FontAwesome",
+			"name": "Shopping Basket",
+			"code": "\\f291"
+		},
+		"hashtag": {
+			"font": "FontAwesome",
+			"name": "Hashtag",
+			"code": "\\f292"
+		},
+		"bluetooth": {
+			"font": "FontAwesome",
+			"name": "Bluetooth",
+			"code": "\\f293"
+		},
+		"bluetooth-b": {
+			"font": "FontAwesome",
+			"name": "Bluetooth",
+			"code": "\\f294"
+		},
+		"percent": {
+			"font": "FontAwesome",
+			"name": "Percent",
+			"code": "\\f295"
+		},
+		"gitlab": {
+			"font": "FontAwesome",
+			"name": "GitLab",
+			"code": "\\f296"
+		},
+		"wpbeginner": {
+			"font": "FontAwesome",
+			"name": "WPBeginner",
+			"code": "\\f297"
+		},
+		"wpforms": {
+			"font": "FontAwesome",
+			"name": "WPForms",
+			"code": "\\f298"
+		},
+		"envira": {
+			"font": "FontAwesome",
+			"name": "Envira Gallery",
+			"code": "\\f299"
+		},
+		"universal-access": {
+			"font": "FontAwesome",
+			"name": "Universal Access",
+			"code": "\\f29a"
+		},
+		"wheelchair-alt": {
+			"font": "FontAwesome",
+			"name": "Wheelchair Alt",
+			"code": "\\f29b"
+		},
+		"question-circle-o": {
+			"font": "FontAwesome",
+			"name": "Question Circle Outlined",
+			"code": "\\f29c"
+		},
+		"blind": {
+			"font": "FontAwesome",
+			"name": "Blind",
+			"code": "\\f29d"
+		},
+		"audio-description": {
+			"font": "FontAwesome",
+			"name": "Audio Description",
+			"code": "\\f29e"
+		},
+		"volume-control-phone": {
+			"font": "FontAwesome",
+			"name": "Volume Control Phone",
+			"code": "\\f2a0"
+		},
+		"braille": {
+			"font": "FontAwesome",
+			"name": "Braille",
+			"code": "\\f2a1"
+		},
+		"assistive-listening-systems": {
+			"font": "FontAwesome",
+			"name": "Assistive Listening Systems",
+			"code": "\\f2a2"
+		},
+		"american-sign-language-interpreting": {
+			"font": "FontAwesome",
+			"name": "American Sign Language Interpreting",
+			"code": "\\f2a3"
+		},
+		"deaf": {
+			"font": "FontAwesome",
+			"name": "Deaf",
+			"code": "\\f2a4"
+		},
+		"glide": {
+			"font": "FontAwesome",
+			"name": "Glide",
+			"code": "\\f2a5"
+		},
+		"glide-g": {
+			"font": "FontAwesome",
+			"name": "Glide G",
+			"code": "\\f2a6"
+		},
+		"sign-language": {
+			"font": "FontAwesome",
+			"name": "Sign Language",
+			"code": "\\f2a7"
+		},
+		"low-vision": {
+			"font": "FontAwesome",
+			"name": "Low Vision",
+			"code": "\\f2a8"
+		},
+		"viadeo": {
+			"font": "FontAwesome",
+			"name": "Viadeo",
+			"code": "\\f2a9"
+		},
+		"viadeo-square": {
+			"font": "FontAwesome",
+			"name": "Viadeo Square",
+			"code": "\\f2aa"
+		},
+		"snapchat": {
+			"font": "FontAwesome",
+			"name": "Snapchat",
+			"code": "\\f2ab"
+		},
+		"snapchat-ghost": {
+			"font": "FontAwesome",
+			"name": "Snapchat Ghost",
+			"code": "\\f2ac"
+		},
+		"snapchat-square": {
+			"font": "FontAwesome",
+			"name": "Snapchat Square",
+			"code": "\\f2ad"
+		},
+		"pied-piper": {
+			"font": "FontAwesome",
+			"name": "Pied Piper Logo",
+			"code": "\\f2ae"
+		},
+		"first-order": {
+			"font": "FontAwesome",
+			"name": "First Order",
+			"code": "\\f2b0"
+		},
+		"yoast": {
+			"font": "FontAwesome",
+			"name": "Yoast",
+			"code": "\\f2b1"
+		},
+		"themeisle": {
+			"font": "FontAwesome",
+			"name": "ThemeIsle",
+			"code": "\\f2b2"
+		},
+		"google-plus-official": {
+			"font": "FontAwesome",
+			"name": "Google Plus Official",
+			"code": "\\f2b3"
+		},
+		"font-awesome": {
+			"font": "FontAwesome",
+			"name": "Font Awesome",
+			"code": "\\f2b4"
+		}
+	}
+}

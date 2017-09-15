@@ -1,0 +1,86 @@
+gecko-slideshow gecko-slideshow-controls {
+	display: block;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 5;
+
+	color: white;
+
+	pointer-events: none;
+
+	> * {
+		pointer-events: all;
+	}
+
+	.dots {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: calc(100% - 40px - 0.5rem);
+
+		> .dot {
+			flex-shrink: 0;
+
+			width: 0.9rem;
+			height: 0.9rem;
+			margin: 0.5rem;
+
+			cursor: pointer;
+
+			border-radius: 100%;
+			background-color: white;
+			box-shadow: 1px 2px 4px 0px rgba(black, 0.2);
+			opacity: 0.5;
+
+			transition: opacity 0.2s ease-in-out;
+
+			&[data-active] {
+				opacity: 1;
+			}
+		}
+	}
+
+	.left, .right {
+		position: absolute;
+
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+
+		width: 1.2em;
+		height: 1.2em;
+		color: white;
+		font-size: 4rem;
+
+		transform: translateY(-50%);
+		transition: transform 0.2s ease-in-out;
+	}
+
+	.left {
+		text-shadow: -1px 1px 1px rgba(black, 1);
+		left: 0;
+		top: 50%;
+
+		&::before {
+			@include icon("angle-left");
+		}
+	}
+
+	.right {
+		text-shadow: 1px 1px 1px rgba(black, 1);
+		right: 0;
+		top: 50%;
+
+		&::before {
+			@include icon("angle-right");
+		}
+	}
+}

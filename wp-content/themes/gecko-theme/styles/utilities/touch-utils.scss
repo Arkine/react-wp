@@ -1,0 +1,53 @@
+/* Breakpoint Utilities (1.0.0)
+ * Provides utilities for imlementing custom, flexible breakpoints.
+ */
+@function break-bigger($width) {
+	@return "screen and (min-width: #{$width})";
+}
+
+@function break-smaller($width) {
+	@return "screen and (max-width: #{$width})";
+}
+
+// Transition between desktop and mobile nav
+$break-nav-width: 40rem;
+$break-nav-bigger: break-bigger($break-nav-width);
+$break-nav-smaller: break-smaller($break-nav-width);
+
+// Add variables like these specific to the site in _constants.scss instead of here.
+
+/* Touch Nav Detection (1.1.0)
+ * Determines whether we should be using touch navigation or not.
+ * Pass in 'false' to the argument if the mixin is being used in the root instead of in a block.
+ */
+@mixin with-touch-nav($use-parent: true) {
+	@media #{$break-nav-smaller} {
+		@content;
+	}
+
+	@if ($use-parent) {
+		@at-root html.touch & {
+			@content;
+		}
+	} @else {
+		@at-root html.touch {
+			@content;
+		}
+	}
+}
+
+@mixin without-touch-nav($use-parent: true) {
+	@media #{$break-nav-bigger} {
+		@content;
+	}
+
+	@if ($use-parent) {
+		@at-root html.no-touch & {
+			@content;
+		}
+	} @else {
+		@at-root html.no-touch {
+			@content;
+		}
+	}
+}

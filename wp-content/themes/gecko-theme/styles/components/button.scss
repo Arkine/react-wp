@@ -1,0 +1,30 @@
+%button {
+	display: inline-block;
+	padding: 0.5rem 1rem;
+
+	color: #FFF;
+
+	background-color: $color-primary;
+	cursor: pointer;
+
+	transition: all 0.2s ease-in-out;
+
+	&:hover {
+		color: #FFF;
+		text-decoration: none;
+
+		background-color: lighten($color-primary, 5%);
+	}
+
+	&.secondary {
+		color: #333;
+
+		background-color: $color-secondary;
+
+		&:hover {
+			color: #333;
+
+			background-color: darken($color-secondary, 5%);
+		}
+	}
+}

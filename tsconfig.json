@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "ES5",
+		"moduleResolution": "node",
+		"experimentalDecorators": true
+	},
+	"files": [
+		"typings/browser.d.ts",
+		"wp-content/themes/gecko-theme/scripts/main.ts"
+	]
+}

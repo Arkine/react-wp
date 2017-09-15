@@ -1,0 +1,38 @@
+body > header.touch {
+	display: none;
+
+	@include with-touch-nav {
+		display: flex;
+	}
+
+	width: 100%;
+	z-index: 100;
+
+	background-color: $color-blue;
+
+	// The menu toggle button
+	> .toggle-touch-menu {
+		flex-shrink: 0;
+
+		display: inline-flex;
+		justify-content: center;
+		align-items: center;
+
+		font-size: 2.5rem;
+		padding: 0.2em;
+		cursor: pointer;
+
+		&::before {
+			font-family: FontAwesome;
+			width: 1em;
+			height: 1em;
+			vertical-align: top;
+			content: "\f0c9";
+		}
+	}
+
+	> .logo {
+		display: flex;
+		align-items: center;
+	}
+}

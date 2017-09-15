@@ -1,0 +1,25 @@
+/* Base Styles
+ * The styles that go here should be site-global and not specific to any individual components.
+ */
+
+body {
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.row {
+	margin: 0 auto;
+	width: 100%;
+	max-width: $row-width;
+}
+
+
+%text-input {
+	margin: 0 0 0.5rem;
+	padding: 0.5rem;
+	width: 100%;
+
+	background-color: rgba($color-secondary, 0.5);
+
+	border: 1px solid darken($color-secondary, 5%);
+}

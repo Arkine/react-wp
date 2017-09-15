@@ -1,0 +1,57 @@
+[data-fixed-header] {
+	position: fixed;
+	z-index: 5;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+}
+
+body > header.desktop {
+	background-color: rgba($color-secondary, 0.9);
+
+	display: flex;
+	@include with-touch-nav {
+		display: none;
+	}
+	// align-items: center;
+	justify-content: space-between;
+
+	.site-branding {
+		padding: 1rem;
+
+		font-size: 1.2rem;
+	}
+
+	nav {
+		display: flex;
+
+		.menu {
+			display: flex;
+		}
+
+		ul {
+			display: flex;
+
+			> li {
+				display: flex;
+
+				> a {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					padding: 1rem;
+				}
+
+				&:hover > a {
+					background-color: $color-primary;
+					color: #FFF;
+				}
+
+				> .sub-menu {
+					display: none;
+				}
+			}
+		}
+	}
+}

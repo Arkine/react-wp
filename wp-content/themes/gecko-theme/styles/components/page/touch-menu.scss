@@ -1,0 +1,62 @@
+body > aside.touch-menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+
+	z-index: 105;
+	width: 80vw;
+	max-width: 25rem;
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+
+	background-color: white;
+
+	transition: left 0.3s ease-in-out;
+
+	&[hidden] {
+		left: -100%;
+	}
+
+	header {
+		flex-shrink: 0;
+
+		padding: 1rem;
+
+		border-bottom: 1px solid black;
+	}
+
+	nav {
+		flex-grow: 1;
+		overflow-y: auto;
+
+		li {
+			display: block;
+
+			a {
+				display: block;
+
+				padding: 1rem;
+				border-bottom: 1px solid rgba(black, 0.3);
+
+				transition: background-color 0.2s ease-in-out;
+
+				&:focus, &:hover {
+					background-color: rgba(black, 0.2);
+				}
+
+				&:active {
+					background-color: rgba(black, 0.3);
+				}
+			}
+		}
+	}
+
+	footer {
+		flex-shrink: 0;
+
+		border-top: 1px solid black;
+		padding: 1rem;
+	}
+}

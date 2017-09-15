@@ -1,0 +1,21 @@
+gecko-blackout {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+
+	background-color: rgba(black, 0.5);
+
+	transition: opacity 0.3s ease-in-out, visibility 0s linear 0.3s;
+
+	&:not([hidden]) {
+		transition-delay: 0s;
+	}
+
+	&[hidden] {
+		visibility: hidden;
+		opacity: 0;
+	}
+}

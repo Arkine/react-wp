@@ -1,0 +1,13 @@
+/**
+ * Tells the element to have the aspect ratio $high / $low
+ * The element should not have content; this mixin uses a padding hack
+ */
+@mixin aspect-ratio($high, $low) {
+	display: block;
+
+	&::before {
+		content: "";
+		display: block;
+		padding-bottom: #{ 100% * $low / $high };
+	}
+}

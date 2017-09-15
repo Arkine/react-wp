@@ -1,0 +1,22 @@
+gecko-slideshow gecko-slide {
+	display: flex;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+
+	transition: opacity 1s ease-in-out;
+	opacity: 0;
+
+	&[data-state="in"] {
+		z-index: 2;
+		opacity: 1;
+	}
+}

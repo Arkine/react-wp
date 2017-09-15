@@ -1,0 +1,87 @@
+# Skeleton gitignore
+
+# OS Files
+*~
+ehthumbs.db
+Thumbs.db
+.DS_Store
+.project
+.idea/
+.svn
+.cvs
+*.bak
+*.swp
+*.tmproj
+_notes
+
+# Build System
+node_modules
+.sass-cache
+
+# WP Assets
+wp-content/uploads/*
+wp-content/blogs.dir/
+wp-content/upgrade/*
+wp-content/backup-db/*
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/*
+wp-content/cache/supercache/*
+
+# Dev Files
+wp-config.php
+*.sublime-project
+*.sublime-workspace
+*.sftp-json
+
+# WPEngine
+.smushit-status
+.gitattributes
+_wpeprivate
+wp-content/object-cache.php
+wp-content/mu-plugins/mu-plugin.php
+wp-content/mu-plugins/slt-force-strong-passwords.php
+wp-content/mu-plugins/limit-login-attempts/*
+wp-content/mu-plugins/wpengine-common/*
+wp-content/mysql.sql
+
+# Log Files
+*.log
+
+# Large Files (WPEngine)
+*.hqx
+*.bin
+*.exe
+*.dll
+*.deb
+*.dmg
+*.iso
+*.img
+*.msi
+*.msp
+*.msm
+*.mid
+*.midi
+*.kar
+*.mp3
+*.ogg
+*.m4a
+*.ra
+*.3gpp
+*.3gp
+*.mp4
+*.mpeg
+*.mpg
+*.mov
+*.webm
+*.flv
+*.m4v
+*.mng
+*.asx
+*.asf
+*.wmv
+*.avi
+*.zip
+*.tar
+*.tgz
+*.gz

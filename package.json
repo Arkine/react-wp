@@ -1,0 +1,23 @@
+{
+	"name": "react-wordpress",
+	"description": "Generated with Gecko Site Generator",
+	"version": "1.0.0",
+	"repository": "https://bitbucket.org/geckodesigns/react-wordpress.git",
+	"license": "MIT",
+	"devDependencies": {
+		"armature": "^1.0.0-alpha4",
+		"colors": "^1.1.2",
+		"core-js": "^2.3.0",
+		"ekma": "^0.3.0",
+		"guh-core": "^1.1.0",
+		"gulp": "^3.9.1",
+		"mysql": "^2.10.2",
+		"ncp": "^2.0.0",
+		"readline-sync": "^1.4.1",
+		"request": "^2.69.0",
+		"typescript": "~1.8.10",
+		"whatwg-fetch": "^1.0.0"
+	},
+	"dependencies": {},
+	"scripts": {}
+}
